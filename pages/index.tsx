@@ -1,5 +1,5 @@
 import type { NextPage } from 'next'
 const Home: NextPage = () => {
- return ( <center><p>Hello World !!!</p></center> )
+ return ( <p>Hello World !!!</p> )
 }
 export default Home
